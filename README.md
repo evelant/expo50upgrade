@@ -1,5 +1,7 @@
 `pnpm install`
+
 `pnpm expo start`
+
 `eas build -p ios --profile development --local`
 
 fails to compile due to header paths issue
